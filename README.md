@@ -1,27 +1,43 @@
-# MyProject
+# Webshop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+This is a webshop project developed using Angular, Node.js, TypeScript, and Stripe.
 
-## Development server
+![Webshop Preview](https://github.com/tinabi8/Webshop_Angular-Node.js-TypeScripe-Stripe/blob/main/Webshop.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+This project showcases the implementation of an e-commerce webshop. It includes features such as browsing products, adding items to cart, adjusting quantities, and processing payments using Stripe API.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies Used
 
-## Build
+- Angular
+- Node.js
+- TypeScript
+- Stripe API
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Installation
 
-## Running unit tests
+1. Clone the repository: git clone https://github.com/tinabi8/Webshop_Angular-Node.js-TypeScripe-Stripe.git
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. Install dependencies: cd Webshop_Angular-Node.js-TypeScripe-Stripe
+npm installcd Webshop_Angular-Node.js-TypeScripe-Stripe
+npm install
 
-## Running end-to-end tests
+3. Start the development server: npm start
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+4. Open your browser and navigate to `http://localhost:4200/`.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Credits
+
+This project was created by [Tingting Bi].
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+
+
+ 
